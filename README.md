@@ -1,3 +1,6 @@
+## 🚨サービス終了のお知らせ
+### 2025年6月30日をもって、本サービスの提供を終了いたしました
+
 ## サービスURL
 https://www.onoda-seikotsu-reservation.net
 
